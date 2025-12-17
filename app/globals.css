@@ -275,7 +275,7 @@ button {
 
 /* intro section */
 .intro-container {
-  margin-top: 20px;
+  margin-top: 60px;
   margin-bottom: 20px;
   position: relative;
   display: flex;
@@ -289,6 +289,7 @@ button {
   background-color: var(--e-global-color-astglobalcolor6);
   z-index: 1;
   position: relative;
+  margin-top: 20px;
 }
 
 .social-icons {
